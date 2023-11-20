@@ -1,3 +1,7 @@
 
 lab3_data/
 *.gpkg
+data/
+plot/
+*.qgz
+*.json
